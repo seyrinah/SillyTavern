@@ -214,3 +214,4 @@ claude:
 enableServerPlugins: false
 # Attempt to automatically update server plugins on startup
 enableServerPluginsAutoUpdate: true
+enable_openrouter: true
